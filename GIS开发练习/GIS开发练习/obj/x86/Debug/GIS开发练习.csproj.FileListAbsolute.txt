@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\bin\Debug\GIS开发练习.exe
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\bin\Debug\GIS开发练习.pdb
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\obj\x86\Debug\GIS开发练习.Form1.resources
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\obj\x86\Debug\GIS开发练习.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\obj\x86\Debug\GIS开发练习.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\obj\x86\Debug\GIS开发练习.exe
+C:\Users\Administrator\Desktop\GIS系统开发\GIS开发练习\GIS开发练习\obj\x86\Debug\GIS开发练习.pdb
